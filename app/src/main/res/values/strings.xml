@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPSfromSMS</string>
+    <string name="preference_file_key">myprefs</string>
+    <string name="explainer_text">Enter a 4 digit number as your PIN and save it.
+        This PIN will be used for authentication so that anyone can\'t get your location. Share this PIN with anyone who you want to
+        get your location. A SMS received from anyone in this format (LOC 2343) with this PIN will be returned your GPS coordinates automatically.</string>
+</resources>
